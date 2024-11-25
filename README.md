@@ -1,5 +1,6 @@
 # Shutdown Manager for Go
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/burik666/shutdown)](https://goreportcard.com/report/github.com/burik666/shutdown)
 [![GitHub license](https://img.shields.io/github/license/burik666/shutdown.svg)](https://github.com/burik666/shutdown/blob/master/LICENSE)
 [![Go Reference](https://pkg.go.dev/badge/github.com/burik666/shutdown.svg)](https://pkg.go.dev/github.com/burik666/shutdown)
 
